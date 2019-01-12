@@ -1,4 +1,4 @@
-## You can see the project by visiting the [link](http://muireact.freevnn.com/)
+## You can see the project by visiting the [link](http://muireactjs.freevnn.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
